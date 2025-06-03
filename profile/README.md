@@ -1,6 +1,6 @@
 # Danesmead Advisory
 
-<img width="600" alt="LinkedIn banner" src="https://github.com/Danesmead-ESG/.github/assets/127407944/2f80d529-51f3-412f-affa-4565844df68f">
+<img width="600" alt="LinkedIn banner" src="https://github.com/user-attachments/assets/60a6aa47-0ea0-49c3-8ade-a5e6290fb7a2">
 
 This is the Github Repository for [Danesmead Advisory](https://www.danesmeadadvisory.com). 
 
